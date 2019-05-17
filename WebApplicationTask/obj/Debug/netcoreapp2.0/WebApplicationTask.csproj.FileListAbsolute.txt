@@ -1,0 +1,11 @@
+C:\Projetos\WebApplicationTask\WebApplicationTask\bin\Debug\netcoreapp2.0\WebApplicationTask.deps.json
+C:\Projetos\WebApplicationTask\WebApplicationTask\bin\Debug\netcoreapp2.0\WebApplicationTask.runtimeconfig.json
+C:\Projetos\WebApplicationTask\WebApplicationTask\bin\Debug\netcoreapp2.0\WebApplicationTask.runtimeconfig.dev.json
+C:\Projetos\WebApplicationTask\WebApplicationTask\bin\Debug\netcoreapp2.0\WebApplicationTask.dll
+C:\Projetos\WebApplicationTask\WebApplicationTask\bin\Debug\netcoreapp2.0\WebApplicationTask.pdb
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.csprojAssemblyReference.cache
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.csproj.CoreCompileInputs.cache
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.AssemblyInfoInputs.cache
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.AssemblyInfo.cs
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.dll
+C:\Projetos\WebApplicationTask\WebApplicationTask\obj\Debug\netcoreapp2.0\WebApplicationTask.pdb
